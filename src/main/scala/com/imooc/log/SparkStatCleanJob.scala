@@ -4,6 +4,7 @@ import com.imooc.log.utils.AccessConvertUtil
 import org.apache.spark.sql.{SaveMode, SparkSession}
 
 /**
+  * maokewei
  * 使用Spark完成我们的数据清洗操作/
  */
 object SparkStatCleanJob {
