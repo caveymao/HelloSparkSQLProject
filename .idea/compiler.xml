@@ -9,8 +9,5 @@
         <module name="sql" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="sql" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
